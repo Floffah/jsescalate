@@ -14,5 +14,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TODO_ACTIONS_MONGO_URL: ${{ secrets.TODO_ACTIONS_MONGO_URL }}
-          MILESTONE_ID: MDk6TWlsZXN0b25lNjM0OTA2NQ==
-          LABEL_IDS: MDU6TGFiZWwyNjg2MTA1MzQ2

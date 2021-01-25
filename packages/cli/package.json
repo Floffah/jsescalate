@@ -1,0 +1,13 @@
+{
+  "name": "@jsescalate/cli",
+  "version": "1.0.0",
+  "description": "The command line interface for JSEscalate",
+  "repository": "https://github.com/Floffah/jsescalate",
+  "author": "Floffah",
+  "license": "GPL-3.0",
+  "main": "dist/index.js",
+  "types": "types/index.d.ts",
+  "files": [
+    "dist", "types", "README.md", "LICENSE"
+  ]
+}

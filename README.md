@@ -1,6 +1,6 @@
 # JSEscalate
 
-Build tools/bundler for major web technologies using all the tools you love and more in one
+Build tools/bundler for major web technologies using all the tools you love and more in one.
 
 ## Contributors ✨
 

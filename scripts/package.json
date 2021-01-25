@@ -1,0 +1,9 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "scripts and things",
+  "repository": "https://github.com/Floffah/jsescalate",
+  "author": "Floffah",
+  "license": "GPL-3.0",
+  "private": true
+}

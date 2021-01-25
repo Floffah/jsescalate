@@ -8,6 +8,6 @@
   "main": "dist/index.js",
   "types": "types/index.d.ts",
   "files": [
-    "dist", "types", "README.md", "LICENSE"
+    "dist", "types"
   ]
 }
